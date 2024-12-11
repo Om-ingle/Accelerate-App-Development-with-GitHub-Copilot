@@ -1,0 +1,31 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "title": "Create four groups of four!",
+        "groups": [
+          {
+            "color": "purple",
+            "category": "Names that sound like two letters",
+            "items": ["Cece", "Edie", "Emmy", "Katie"]
+          },
+          {
+            "color": "yellow",
+            "category": "Sopranos",
+            "items": ["Carmela", "Junior", "Meadow", "Tony"]
+          },
+          {
+            "color": "green",
+            "category": "Familial Nicknames",
+            "items": ["Cuz", "Grammy", "Mummy", "Pop"]
+          },
+          {
+            "color": "blue",
+            "category": "“Sesame Street” Characters",
+            "items": ["Cookie", "Count", "Oscar", "Snuffy"]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,37 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "words": [
+        "CECE", "EDIE", "EMMY", "KATIE",
+        "CARMELA", "JUNIOR", "MEADOW", "TONY",
+        "CUZ", "GRAMMY", "MUMMY", "POP",
+        "COOKIE", "COUNT", "OSCAR", "SNUFFY"
+      ],
+      "solutions": [
+        ["CECE", "EDIE", "EMMY", "KATIE"],
+        ["CARMELA", "JUNIOR", "MEADOW", "TONY"],
+        ["CUZ", "GRAMMY", "MUMMY", "POP"],
+        ["COOKIE", "COUNT", "OSCAR", "SNUFFY"]
+      ],
+      "groupsMetadata": [
+        {
+          "color": "FF9C27B0",
+          "hint": "Names that sound like two letters"
+        },
+        {
+          "color": "FFFFC107",
+          "hint": "Sopranos characters"
+        },
+        {
+          "color": "FF4CAF50",
+          "hint": "Familial Nicknames"
+        },
+        {
+          "color": "FF2196F3",
+          "hint": "Sesame Street characters"
+        }
+      ]
+    }
+  ]
+}
